@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe
+<img width="489" alt="image" src="https://github.com/Debraj550/tic-tac-toe/assets/32432161/e16d0491-743f-4eb4-bd1c-ee31ec496cce">
 
 This is a TIC-TAC-TOE app made using React.
 
